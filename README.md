@@ -75,3 +75,4 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+**Special Thanks to Antoine for creating a wonderful gaze tracking project, definitely check out [his project](https://github.com/antoinelame/GazeTracking) too.**
